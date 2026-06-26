@@ -33,7 +33,7 @@ Spectra is a modern Chromium-based web browser built for speed, privacy, and cus
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/spectra.git
+git clone https://github.com/Ph4nt0m-d3v/spectra.git
 cd spectra
 ```
 
